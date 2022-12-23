@@ -1,0 +1,18 @@
+{
+    "name": "gioco-plus/spinix-contract",
+    "description": "spinix Interface",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tkd9714",
+            "email": "chunwei.liu@goldenf.co"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "GiocoPlus\\SPINIX\\": "src/"
+        }
+    },
+    "require": {}
+}
