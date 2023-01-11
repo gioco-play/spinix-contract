@@ -8,7 +8,6 @@ interface SPINIXServiceInterface {
 
     /**
      * 遊戲啟動
-     *
      * @param string $op_code
      * @param string $account
      * @param string $game_code
