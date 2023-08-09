@@ -24,7 +24,7 @@ interface SPINIXServiceInterface {
      * @param string $bet_id
      * @return mixed
      */
-    function gameDetail(string $op_code, string $account, string $bet_id);
+    function gameDetail(string $op_code, string $account, string $bet_id, string $language);
 
     /**
      * 會員帳號轉換(GF->SPINIX)
